@@ -1,0 +1,5 @@
+﻿  func.cpp
+  main.cpp
+  Generating Code...
+c:\users\this pc\source\repos\lab 4\21120551\func.cpp(142): warning C4715: 'Search': not all control paths return a value
+  21120551.vcxproj -> C:\Users\this pc\source\repos\lab 4\x64\Debug\21120551.exe

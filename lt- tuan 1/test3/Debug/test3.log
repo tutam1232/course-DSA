@@ -1,0 +1,3 @@
+﻿  test3.cpp
+c:\users\this pc\source\repos\lt- tuan 1\test3\test3.cpp(56): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  test3.vcxproj -> C:\Users\this pc\source\repos\lt- tuan 1\Debug\test3.exe

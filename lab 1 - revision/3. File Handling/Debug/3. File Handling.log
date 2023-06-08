@@ -1,0 +1,6 @@
+﻿  func.cpp
+c:\users\this pc\source\repos\lab 1\3. file handling\func.cpp(124): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+c:\users\this pc\source\repos\lab 1\3. file handling\main.cpp(23): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  3. File Handling.vcxproj -> C:\Users\this pc\source\repos\lab 1\Debug\3. File Handling.exe

@@ -1,0 +1,6 @@
+﻿  func.cpp
+c:\users\this pc\source\repos\lab 1\2. recursion\func.cpp(107): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+c:\users\this pc\source\repos\lab 1\2. recursion\func.cpp(98): warning C4715: 'calBCNN': not all control paths return a value
+  2. Recursion.vcxproj -> C:\Users\this pc\source\repos\lab 1\Debug\2. Recursion.exe
