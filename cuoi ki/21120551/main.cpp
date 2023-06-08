@@ -4,7 +4,6 @@
 #include <fstream>
 using namespace std;
 
-
 struct Animal
 {
 	string en;
